@@ -2,7 +2,7 @@
 name = "test-app"
 version = "0.1.0"
 description = ""
-authors = ["tys-hiroshi"]
+authors = ["infinith4"]
 readme = "README.md"
 packages = [{include = "test_app"}]
 
